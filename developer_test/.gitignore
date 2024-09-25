@@ -1,0 +1,6 @@
+.idea
+vendor/*
+var/cache/*
+var/log/*
+docker/data/mysql/*
+docker/logs/apache2/*
